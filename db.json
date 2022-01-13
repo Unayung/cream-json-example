@@ -36,6 +36,14 @@
           "value": 1.4
         },
         {
+          "trait_type": "Infectivity",
+          "value": 8.5
+        },
+        {
+          "trait_type": "Drug Resistance",
+          "value": 3.3
+        },
+        {
           "trait_type": "Personality",
           "value": "Sad"
         },
