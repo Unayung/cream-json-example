@@ -1,0 +1,60 @@
+{
+  "viruses": [
+    {
+      "id": "0",
+      "description": "Friendly little MOFO trying to exterminate human beings",
+      "external_url": "https://viruscream.io/viruses/1",
+      "image": "https://i.imgur.com/EM04Lt3.png",
+      "name": "Dave Covid the 19th",
+      "attributes": [
+        {
+          "trait_type": "Body",
+          "value": "Purple"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Evil"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Thick"
+        },
+        {
+          "trait_type": "Accessory",
+          "value": "Candy"
+        },
+        {
+          "trait_type": "Background",
+          "value": "Lavender"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Common"
+        },
+        {
+          "trait_type": "Stamina",
+          "value": 1.4
+        },
+        {
+          "trait_type": "Personality",
+          "value": "Sad"
+        },
+        {
+          "display_type": "date",
+          "trait_type": "End Date",
+          "value": 1643558400
+        },
+        {
+          "display_type": "boost_percentage",
+          "trait_type": "Infectivity Increase",
+          "value": 10
+        },
+        {
+          "display_type": "number",
+          "trait_type": "Generation",
+          "value": 1
+        }
+      ]
+    }
+  ]
+}
